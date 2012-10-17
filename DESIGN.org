@@ -1,0 +1,3 @@
+* Comments
+- JSON(stored as document) -> DOM(nested)
+- plain text only!
