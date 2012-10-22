@@ -1,3 +1,7 @@
 * Comments
 - JSON(stored as document) -> DOM(nested)
 - plain text only!
+
+* Images
+- image is part of the post, so embedded into post
+  one benifit: no need to host the image files somewhere else
