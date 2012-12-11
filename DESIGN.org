@@ -5,3 +5,6 @@
 * Images
 - image is part of the post, so embedded into post
   one benifit: no need to host the image files somewhere else
+
+* Attachments
+- Public/Private, see it by known url
