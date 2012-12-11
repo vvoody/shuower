@@ -8,3 +8,5 @@
 
 * Attachments
 - Public/Private, see it by known url
+- folder sharing like Minus.com
+- preview everything even a folder
